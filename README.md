@@ -1,5 +1,7 @@
-# Inheritance
+# EX08-Inheritance
+
 ## Aim:
+
 To write a C# program to print some messages using hierarchical inheritance.
 
 ## Algorithm:
@@ -13,6 +15,7 @@ step 3: Create a constructor in the base class and print a message.
 step 4: create a function in child class to print a message.
 
 ## Program:
+
 Name : KAVIYA SHREE S
 Reg.no: 212222110018
 ```
