@@ -15,10 +15,11 @@ step 3: Create a constructor in the base class and print a message.
 step 4: create a function in child class to print a message.
 
 ## Program:
-
-Name : KAVIYA SHREE S
-Reg.no: 212222110018
 ```
+Name : KAVIYA SHREE S
+
+Reg.no: 212222110018
+
 using System;
 namespace inheritance
 {
